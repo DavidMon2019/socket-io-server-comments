@@ -1,0 +1,9 @@
+.idea/
+
+## server
+node_modules
+dist
+npm-debug.log
+
+#vs code
+.vscode
